@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do TDuart 💻🎮
 
  <div>
    <a href="https://github.com/devemdobro">
@@ -16,7 +16,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### 
  
 <div> 
   <a href="https://www.instagram.com/_thiagoduarte_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
