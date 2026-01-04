@@ -1,4 +1,4 @@
-- ## 👋 Olá, eu sou o Thiago Duarte
+## 👋 Olá, eu sou o Thiago Duarte
 
 🎓 Estudante de Engenharia de Software  
 💻 Software Engineer  
