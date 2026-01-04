@@ -33,3 +33,10 @@ Atuar na área de **desenvolvimento de jogos**, trabalhando com:
 
 ## 📫 Contato
 - GitHub: https://github.com/TDuart
+
+## 🛠️ Tecnologias & Estudos
+
+<p>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50" />
+</p>
+
